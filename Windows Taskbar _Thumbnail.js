@@ -1,5 +1,7 @@
 Set Thumbnail
 
+CHECK THE THUMBNAIL VIEW IN VS CODE
+
 const { BrowserWindow } = require('electron')
 const path = require('path')
 
