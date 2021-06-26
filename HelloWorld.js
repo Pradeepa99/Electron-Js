@@ -16,6 +16,7 @@ index.html
     </p>
     <p> Check master merge</p>
     <p> Check the main merge master second time</p>
+    <p>Check the merge 3 dev1</p>
 </body>
 </html>
 
