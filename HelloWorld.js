@@ -15,6 +15,7 @@ index.html
         and Electron <script>document.write(process.versions.electron)</script>.
     </p>
     <p> Check master merge</p>
+    <p> Check the main merge master second time</p>
 </body>
 </html>
 
