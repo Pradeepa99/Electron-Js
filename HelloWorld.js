@@ -14,6 +14,7 @@ index.html
         Chrome <script>document.write(process.versions.chrome)</script>,
         and Electron <script>document.write(process.versions.electron)</script>.
     </p>
+    <p> Check master merge</p>
 </body>
 </html>
 
